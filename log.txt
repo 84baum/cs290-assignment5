@@ -1,0 +1,15 @@
+Start: Mon, 9 Feb 2015 21:27:15 -0800 
+End: Mon, 9 Feb 2015 22:25:13 -0800 
+Tasks: Set up tables in mysqli database. Worked on php design.
+
+Start: Tue, 10 Feb 2015 10:18:45 -0800 
+End: Tue, 10 Feb 2015 11:45:17 -0800 
+Tasks: Worked on php functions to process post data depending on user action
+
+Start: Tue, 10 Feb 2015 21:12:26 -0800 
+End: Tue, 10 Feb 2015 23:18:19 -0800 
+Tasks: Finished decomposing functions for user action interface in php
+
+Start: Wed, 11 Feb 2015 20:20:45 -0800 
+End: Wed, 11 Feb 2015 22:48:54 -0800 
+Tasks: Debugging and finalizing project
