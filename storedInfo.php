@@ -1,1 +1,1 @@
-<?php $password = "WgK96X9eVV6EGX8V"; ?>
+<?php $password = "_____"; ?>
